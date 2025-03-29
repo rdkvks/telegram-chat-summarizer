@@ -1,0 +1,5 @@
+api_key: "YOUR_TELEGRAM_BOT_API_KEY"
+llm_api_url: "https://api.example.com/llm"
+summary_length: 150
+chat_history_db: "data/chat_history.db"
+log_level: "INFO"
